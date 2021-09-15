@@ -9,7 +9,7 @@
       <div class="form-group">
 
           <label for="id">id</label>
-          <!-- <input type="text" required class="form-control" id="name"> -->
+          
           <input type="text" class="form-control" id="id" [(ngModel)]="newQuote.name" name="name" #name="ngModel" required>
         <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
           <p>id is required</p>
