@@ -1,27 +1,44 @@
-# Quotes
+## Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+## Quotes, November 15th 2021
 
-## Development server
+## By Peter Anami
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+- An application that enables users to add quotes,delete quotes.You can also be able to see already existing and there author and can upvote and downvote quotes.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Behaviour Driven Development(BDD)
 
-## Build
+## Input Ouput
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- User clicks Post Quote Quote form displays with input fields for Author, Publisher
+- User Clicks Delete The quote is purged from view
+- User clicks Upvote upvote is incremented value by 1 on each click
+- User clicks Downvote downvote is decremented value by 1 on each click
 
-## Running unit tests
+## Setup/Installation requirements
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Clone or download and unzip the repository from github, https:
+- If you have git Use this command git clone \* to clone the project.
+- Run ng serve from your terminal
+- Live Demo
 
-## Running end-to-end tests
+## To view the page click on the link below
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-
 
-## Further help
+## Technologies Used
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular CLI
+- Known Bugs
+- There are no known bugs currently. The page works as expected.
+
+- Support and Contact Details
+- platnumzpeter4@gmail.com
+
+## Make contributions to the code.
+
+## License
+
+This project is licensed under the MIT Open Source license Copyright (c) 2021. Peter Anami
