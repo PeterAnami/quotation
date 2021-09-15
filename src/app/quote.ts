@@ -9,7 +9,7 @@ export class Quote {
         this.id = id,
         this.name =name,
         this.quoteName = quoteName,
-        this.last = last, //edit this property
+        this.last = last, 
         this.showAuthorName = false
     }
 }
