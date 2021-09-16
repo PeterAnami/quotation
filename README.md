@@ -1,44 +1,51 @@
-## Quotes
-
-## Quotes, November 15th 2021
-
-## By Peter Anami
+:satisfied:
+#  AngularQuotes
+#### This project interlinks people who like quotes to create and to see other peoples quotes, 2021 
+#### By **Peter Anami**&trade;
 
 ## Description
 
-- An application that enables users to add quotes,delete quotes.You can also be able to see already existing and there author and can upvote and downvote quotes.
+This project was generated with [Angular CLI]
 
-## Behaviour Driven Development(BDD)
+## Project live site
+  
+  ## Technologies Used
+* HTML-For Building Mark Up pages
+* CSS-For styling User Interface
+* Bootsrap-For making webpage responsive
+* Angular 8;
+* Typscript
 
-## Input Ouput
+## Behavior Driven Development
 
-- User clicks Post Quote Quote form displays with input fields for Author, Publisher
-- User Clicks Delete The quote is purged from view
-- User clicks Upvote upvote is incremented value by 1 on each click
-- User clicks Downvote downvote is decremented value by 1 on each click
 
-## Setup/Installation requirements
 
-- Clone or download and unzip the repository from github, https:
-- If you have git Use this command git clone \* to clone the project.
-- Run ng serve from your terminal
-- Live Demo
+## Development server
 
-## To view the page click on the link below
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
--
+## Code scaffolding
 
-## Technologies Used
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Angular CLI
-- Known Bugs
-- There are no known bugs currently. The page works as expected.
+## Build
 
-- Support and Contact Details
-- platnumzpeter4@gmail.com
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Make contributions to the code.
+## Running unit tests
 
-## License
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-This project is licensed under the MIT Open Source license Copyright (c) 2021. Peter Anami
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Support and contact details
+platnumzpeter4@gmail.com
+### License
+The project is under[MIT license](/blob/master/LICENSE)
+Copyright &copy; 2021.All rigths reserved
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
